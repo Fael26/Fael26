@@ -6,12 +6,13 @@
 
 #
 
-<p align="center">Estudante de Ciêncais de Dados  na Pontifícia Universidade Católica de Minas Gerais.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<p align="center">Estudante de Ciêncais de Dados  na Pontifícia Universidade Católica de Minas Gerais.Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+
+<h3 align="center">
   
+![97e6IX0kayYTK](https://github.com/user-attachments/assets/a62b0c56-0236-4165-a1f9-8d495b6bf6b0)
+
 #
-
-
 
 <h3 align="left">Connect with me!</h3>
 
